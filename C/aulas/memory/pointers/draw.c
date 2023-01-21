@@ -10,8 +10,7 @@ int main(void)
 }
 
 
-/* usando loop
-
+// usando loop
 void draw(int h)
 {
     for (int i = 1; i <= h; i++)
@@ -23,10 +22,7 @@ void draw(int h)
         printf("\n");
      }
 }
-
-*/
-
-/* usando recursividade
+// usando recursividade
     void draw(int h)
     {
         if (h == 0)
@@ -43,8 +39,6 @@ void draw(int h)
 
         printf("\n");
     }
-
-*/
 
 /*
     a função draw irá parar alguma hora, porém se a chamarmos muitas vezes
