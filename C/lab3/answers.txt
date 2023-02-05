@@ -1,0 +1,11 @@
+sort1 uses: Selection Sort
+
+How do you know?: Because sort1 file has the highest upperbound between the other options and the execution time is higher than the other sort files
+
+sort2 uses: Bubble Sort
+
+How do you know?: Because its lowerbound is lower than selection sort, and when the coding is used in the already sorted file, the execution time is lower.
+
+sort3 uses: Merge Sort
+
+How do you know?: Because the execution time is the same, whatever be the input (random, reversed or sorted).3
